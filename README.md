@@ -100,4 +100,4 @@ and then the Second img src - the path of the screenshot which in the Screenshot
 ![image](https://user-images.githubusercontent.com/92500255/196056387-8e4d4b17-db1b-4b90-ad46-b7e613214c41.png)
    
 13. Google will be your best friend in case you get stuck at any point from now. Now go ahead and make your first cool PR!!
-# hacktoberfest-2022
+
