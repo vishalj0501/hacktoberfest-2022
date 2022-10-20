@@ -6,7 +6,7 @@ Welcome to Hacktoberfest 2022! Begin your Open Source Journey as a contributor b
 
 ## Make your first PR!
 
-1. Fork this repository to your account by clicking the **Fork** button on this repo
+1. Fork this repository to your account by clicking the **Fork** button on this repo.
 
 
 
@@ -15,7 +15,7 @@ Welcome to Hacktoberfest 2022! Begin your Open Source Journey as a contributor b
 2. You now have this repo in your github account. You must be able to see it in `github.com/your-github-username/hacktoberfest-2022`
 
 3. Go ahead and **clone** this repository from your account to your PC. At this point, make sure you have Git installed in your PC. Refer this [documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) from git for instructions. By using the command
-   `git clone https://github.com/<your-github-username>/hacktoberfest-2022` you can clone the repository.Now, you will find this repository/folder in your PC.
+   `git clone https://github.com/<your-github-username>/hacktoberfest-2022` you can clone the repository. Now, you will find this repository/folder in your PC.
 
 4. Open [Google-Colaboratory](https://colab.research.google.com/) in your browser and open a New Notebook.
 
@@ -76,7 +76,7 @@ To get avatar link follow these steps:
 ![image](https://user-images.githubusercontent.com/92500255/196728483-e20e7800-8fef-4bf1-8000-ad35173a0916.png)
 
 
-**Cool!** you have copied the avatar link now you have to just paste it in place of the first img src link.
+**Cool!** You have copied the avatar link now you have to just paste it in place of the first img src link.
 
 
 and then the Second img src - the path of the screenshot which in the Screenshot folder: `Screenshot/<screenshot_your-name>`
