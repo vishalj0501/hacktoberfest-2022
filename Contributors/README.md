@@ -10,6 +10,12 @@
 </tr>
 
 <tr>
+<td align="center"><a href="https://github.com/priti164/hacktoberfest-2022.git"><img src="https://avatars.githubusercontent.com/u/116486065?v=4">
+width="100px;" alt=""/><br /><sub><b>Priti</b></sub></a><br /></td>
+<td align="center"><img src="Screenshot/screenshot_priti.png"></td>
+</tr>
+
+<tr>
 <td align="center"><a href="https://github.com/Pakhi07"><img src="https://avatars.githubusercontent.com/u/92666755?v=4" width="100px;" alt=""/><br /><sub><b>Pakhi Banchalia</b></sub></a><br /></td>
 <td align="center"><img src="Screenshot/screenshot_pakhi.png"></td>
 </tr>
