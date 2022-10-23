@@ -19,6 +19,9 @@
 <td align="center"><img src="Screenshot/screenshot_vishal.png"></td>
 </tr>
 
-
+<tr>
+<td align="center"><a href="https://github.com/vishalj0501"><img src="https://avatars.githubusercontent.com/u/92500255?s=40&v=4" width="100px;" alt=""/><br /><sub><b>Karthikeya</b></sub></a><br /></td>
+<td align="center"><img src="Screenshot/Screenshot_Karthikeya.jpg""></td>
+</tr>
 
 </table>
