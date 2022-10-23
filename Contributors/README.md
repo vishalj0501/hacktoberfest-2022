@@ -15,7 +15,7 @@ width="100px;" alt=""/><br /><sub><b>Vishal</b></sub></a><br /></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/sarangKP"><img src="https://avatars.githubusercontent.com/u/116485378?s=40&v=4" width="100px;" alt=""/><br /><sub><b>Sarang KP</b></sub></a><br /></td>
-<td align="center"><img src="C:\Users\Administrator\Pictures\Screenshots"></td>
+<td align="center"><img src="Screenshot/Screenshot_Sarang"></td>
 </tr>
 
 <tr>
