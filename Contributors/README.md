@@ -23,7 +23,7 @@
 
 <tr>
 <td align="center"><a href="https://github.com/Akshika_Munshi"><img src="https://avatars.githubusercontent.com/u/116476084?v=3&size=40"/><br /><sub><b>Akshika</b></sub></a><br /></td>
-<td align="center"><img src="Screenshot/screenshot_akshika.png"></td>
+<td align="center"><img src="Screenshot/Screenshot_akshika.png"></td>
 </tr>
 
 
