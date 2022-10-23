@@ -19,6 +19,15 @@ width="100px;" alt=""/><br /><sub><b>Vishal</b></sub></a><br /></td>
 <td align="center"><img src="Screenshot/screenshot_tourpran.png"></td>
 </tr>
 
+
+<tr>
+  <td align="center">
+    <a href="https://github.com/BolisettySujith">
+    <img src="https://avatars.githubusercontent.com/u/73323807?v=4"                   
+  width="100px;" alt=""/><br /><sub><b>Bolisetty Sujith</b></sub></a><br /></td>
+    <td align="center"><img src="Screenshot/screenshot_sujith.png"></td>
+</tr>
+
 <tr>
 <td align="center"><a href="https://github.com/Pakhi07"><img src="https://avatars.githubusercontent.com/u/92666755?v=4" width="100px;" alt=""/><br /><sub><b>Pakhi Banchalia</b></sub></a><br /></td>
 <td align="center"><img src="Screenshot/screenshot_pakhi.png"></td>
