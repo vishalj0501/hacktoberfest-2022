@@ -8,6 +8,11 @@
   <th>Contributor</th>
   <th>Contribution</th>
 </tr>
+<tr>
+<td align="center"><a href="https://github.com/Pank-aj"><img src="https://avatars.githubusercontent.com/u/84556893?s=400&v=4"                   
+width="100px;" alt=""/><br /><sub><b>Pankaj</b></sub></a><br /></td>
+<td align="center"><img src="Screenshot/screenshot_Pankaj P.jpg"></td>
+</tr>
 
 <tr>
 <td align="center"><a href="https://github.com/Pakhi07"><img src="https://avatars.githubusercontent.com/u/92666755?v=4" width="100px;" alt=""/><br /><sub><b>Pakhi Banchalia</b></sub></a><br /></td>
