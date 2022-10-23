@@ -11,7 +11,7 @@
 
 <tr>
 <td align="center"><a href="https://github.com/vishalj0501"><img src="https://avatars.githubusercontent.com/u/92500255?s=40&v=4"                   
-width="100px;" alt=""/><br /><sub><b>Vishal</b></sub></a><br /></td>
+width="100px;" alt=""/><br /><sub><b>Raunak</b></sub></a><br /></td>
 <td align="center"><img src="Screenshot/screenshot_Raunak.png"></td>
 </tr>
 
