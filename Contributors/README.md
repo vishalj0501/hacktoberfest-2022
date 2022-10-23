@@ -10,6 +10,12 @@
 </tr>
 
 <tr>
+<td align="center"><a href="https://github.com/jxxl7"><img src="https://avatars.githubusercontent.com/u/116485542?v=4"                   
+width="100px;" alt=""/><br /><sub><b>Joel</b></sub></a><br /></td>
+<td align="center"><img src="Screenshot/screenshot_joel.png"></td>
+</tr>
+
+<tr>
 <td align="center"><a href="https://github.com/Pakhi07"><img src="https://avatars.githubusercontent.com/u/92666755?v=4" width="100px;" alt=""/><br /><sub><b>Pakhi Banchalia</b></sub></a><br /></td>
 <td align="center"><img src="Screenshot/screenshot_pakhi.png"></td>
 </tr>
