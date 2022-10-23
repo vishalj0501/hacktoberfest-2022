@@ -19,6 +19,9 @@
 <td align="center"><img src="Screenshot/screenshot_vishal.png"></td>
 </tr>
 
-
+<tr>
+<td align="center"><a href="https://github.com/kirtisikka1211"><img src="https://avatars.githubusercontent.com/u/116485331?v=4" width="100px;" alt=""/><br /><sub><b>Pakhi Banchalia</b></sub></a><br /></td>
+<td align="center"><img src="Screenshot/screenshot_KIRTISIKKA.png"></td>
+</tr>
 
 </table>
