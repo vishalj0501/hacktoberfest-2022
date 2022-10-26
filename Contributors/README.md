@@ -9,6 +9,12 @@
   <th>Contribution</th>
 </tr>
 <tr>
+  <tr>
+<td align="center"><a href="https://github.com/HimanshuSinghNegi"><img src="https://avatars.githubusercontent.com/u/72004239?s=400&u=1ed888a24e229ed5d917763d382e9b9e46c653b6&v=4"                   
+width="100px;" alt=""/><br /><sub><b>Himanshu Singh Negi</b></sub></a><br /></td>
+<td align="center"><img src="Screenshot/screenshot_himanshu.png"></td>
+</tr>
+  
 <td align="center"><a href="https://github.com/hks3333"><img src="https://avatars.githubusercontent.com/u/116485370?s=40&v=4"                   
 width="100px;" alt=""/><br /><sub><b>Harikrishnan</b></sub></a><br /></td>
 <td align="center"><img src="Screenshot/screenshot_harikrishnan.png"></td>
