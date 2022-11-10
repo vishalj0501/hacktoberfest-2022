@@ -53,6 +53,11 @@ width="100px;" alt=""/><br /><sub><b>nikhil</b></sub></a><br /></td>
 </tr>
 
 <tr>
+<td align="center"><a href="https://github.com/QuantuM410"><img src="https://avatars.githubusercontent.com/u/85943021?s=40&v=4"                   
+width="100px;" alt=""/><br /><sub><b>Vishal</b></sub></a><br /></td>
+<td align="center"><img src="Screenshot/screenshot_KartikeySingh.png"></td>
+</tr>
+<tr>
 <td align="center"><a href="https://github.com/Pakhi07"><img src="https://avatars.githubusercontent.com/u/92666755?v=4" width="100px;" alt=""/><br /><sub><b>Pakhi Banchalia</b></sub></a><br /></td>
 <td align="center"><img src="Screenshot/screenshot_pakhi.png"></td>
 </tr>
